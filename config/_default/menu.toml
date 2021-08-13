@@ -1,0 +1,29 @@
+[[main]]
+  name = "Start"
+  identifier = "start"
+  weight = 100
+  url = "/"
+
+[[main]]
+  name = "One"
+  weight = 200
+  identifier = "one"
+  url = "/one/"
+
+[[main]]
+  name = "Two"
+  weight = 300
+  identifier = "two"
+  url = "/two/"
+
+[[main]]
+  name = "Three"
+  weight = 300
+  identifier = "three"
+  url = "/three/"
+ 
+[[main]]
+  name = "Föur"
+  weight = 500
+  identifier = "four"
+  url = "/four/"
